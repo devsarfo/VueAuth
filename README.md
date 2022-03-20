@@ -1,4 +1,4 @@
-# VueAuth
+# VueAuth - Vue 3 + TailwindCSS + Vite Authentication Template 
 
 This template should help get you started developing with Vue 3 in Vite.
 
